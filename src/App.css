@@ -1,0 +1,41 @@
+.App{
+  text-align:center ;
+  background-color: rgb(116, 62, 166);
+  height: 100vh;
+ 
+}
+.tc{
+  display: flex;
+  justify-content: center;
+  
+}
+.header{
+  background-color:#2c3e50;
+  padding: 15px;
+  color: #fff;
+  width: 100%;
+
+}
+.form-data{
+  display: flex;
+  justify-content: center;
+  margin: 15px 0px 0px 0px; 
+}
+.input-field{
+  background-color: rgb(47, 32, 97);
+  box-shadow: 3px 4px 20px 0px rgb(255, 255, 255);
+ 
+}
+
+.stored-data-values{
+  background-color: #3d5c60;
+  box-shadow: 1px 3px 7px 0px rgb(245 245 245);;
+  color: rgb(255, 165, 165);
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-top: 15px; ;
+  border-radius: 50px;
+  min-height: 150px;
+  align-items: center;
+}
